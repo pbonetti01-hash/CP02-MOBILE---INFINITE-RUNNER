@@ -1,55 +1,69 @@
-<img width="392" height="699" alt="Captura de tela 2026-05-04 143850" src="https://github.com/user-attachments/assets/095ae6bb-2f35-40a3-b659-7db93d29fd88" />
+# 🏃 Infinite Runner — Projeto Acadêmico
 
-Infinite Runner — Projeto Acadêmico
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/095ae6bb-2f35-40a3-b659-7db93d29fd88" width="392" alt="Captura de tela do Jogo">
+</p>
 
-Jogo estilo Infinite Runner desenvolvido como projeto para a faculdade utilizando Unity 6.4.
+> Jogo estilo **Infinite Runner** desenvolvido como projeto universitário utilizando a **Unity 6.4**.
 
-🎮 Sobre o Projeto
+---
 
-Este projeto consiste em um jogo do gênero Infinite Runner, onde o jogador deve desviar de obstáculos, sobreviver o máximo de tempo possível e alcançar a maior pontuação.
+## 🎮 Sobre o Projeto
 
-O jogo foi desenvolvido com foco em aprendizado acadêmico, aplicando conceitos de:
+Este projeto consiste em um jogo do gênero Infinite Runner, onde o jogador deve desviar de obstáculos, sobreviver o máximo de tempo possível e alcançar a maior pontuação. 
 
-Desenvolvimento de jogos
-Programação em C#
-Física e colisões
-Interface para jogos mobile
-Organização de assets e gerenciamento de projeto na Unity
-🛠️ Tecnologias Utilizadas
-Engine: Unity
-Linguagem: C#
-Plataforma alvo: Mobile
-Build atual disponível: Computador/Desktop
-📱 Plataforma
+O foco principal foi o aprendizado acadêmico, aplicando conceitos fundamentais de:
+*   **Game Design:** Mecânicas de progressão e dificuldade.
+*   **Programação C#:** Scripts de movimentação, pontuação e spawn procedural.
+*   **Física:** Sistema de colisões e triggers.
+*   **UI/UX:** Interface otimizada para experiência mobile.
 
-<img width="392" height="702" alt="Captura de tela 2026-05-04 143908" src="https://github.com/user-attachments/assets/59b742cf-496f-4352-9354-ae4dee8485e1" />
+---
 
+## 🛠️ Tecnologias Utilizadas
 
-O projeto foi pensado e desenvolvido para dispositivos mobile, porém atualmente o build disponível é apenas para computador.
+| Ferramenta | Descrição |
+| :--- | :--- |
+| **Engine** | Unity 6.4 |
+| **Linguagem** | C# |
+| **Plataforma Alvo** | Mobile (Android/iOS) |
+| **Áudio** | Suno AI |
 
-Compatibilidade Atual
-✅ Windows
-🚧 Android (em desenvolvimento)
-🚧 iOS (planejado)
-🎵 Música
+---
 
-As músicas utilizadas no projeto foram geradas utilizando:
+## 📱 Plataformas e Compatibilidade
 
-Suno AI
-🎨 Assets Utilizados
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59b742cf-496f-4352-9354-ae4dee8485e1" width="392" alt="Interface Mobile">
+</p>
 
-Os seguintes pacotes/assets foram utilizados no desenvolvimento do jogo:
+Embora o design tenha sido concebido para dispositivos móveis, o build atual está configurado para desktop para fins de avaliação acadêmica.
 
-BOXOPHOBIC
-Guddies
-Pack_FREE_Cars
-Pandazole_Ultimate_Pack
-Quaint Game Studio
+*   ✅ **Windows:** Disponível
+*   🚧 **Android:** Em desenvolvimento
+*   🚧 **iOS:** Planejado
 
-Todos os direitos dos assets pertencem aos seus respectivos criadores.
+---
 
-<img width="391" height="700" alt="Captura de tela 2026-05-04 143923" src="https://github.com/user-attachments/assets/6ac2fda3-1db3-40f0-aff3-e47a6b83bfea" />
+## 🎨 Assets Utilizados
 
-📚 Objetivo Acadêmico
+O visual do jogo foi construído utilizando uma curadoria de assets de alta qualidade:
 
-Este projeto foi desenvolvido com fins educacionais para aplicação prática dos conteúdos estudados durante a graduação.
+*   **BOXOPHOBIC**
+*   **Guddies**
+*   **Pack_FREE_Cars**
+*   **Pandazole_Ultimate_Pack**
+*   **Quaint Game Studio**
+
+> [!IMPORTANT]  
+> Todos os direitos dos assets pertencem aos seus respectivos criadores.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ac2fda3-1db3-40f0-aff3-e47a6b83bfea" width="391" alt="Screenshot Gameplay">
+</p>
+
+---
+
+## 📚 Objetivo Acadêmico
+
+Este projeto foi desenvolvido com fins educacionais para a aplicação prática dos conteúdos estudados durante a graduação, integrando teoria de sistemas de software com a prática criativa de desenvolvimento de jogos.
