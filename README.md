@@ -53,9 +53,3 @@ Todos os direitos dos assets pertencem aos seus respectivos criadores.
 📚 Objetivo Acadêmico
 
 Este projeto foi desenvolvido com fins educacionais para aplicação prática dos conteúdos estudados durante a graduação.
-
-👨‍💻 Desenvolvedor
-
-Projeto desenvolvido para a faculdade por:
-
-Seu Nome Aqui
