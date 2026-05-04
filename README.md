@@ -48,7 +48,7 @@ Quaint Game Studio
 
 Todos os direitos dos assets pertencem aos seus respectivos criadores.
 
-![Uploading Captura de tela 2026-05-04 143923.png…]()
+<img width="391" height="700" alt="Captura de tela 2026-05-04 143923" src="https://github.com/user-attachments/assets/6ac2fda3-1db3-40f0-aff3-e47a6b83bfea" />
 
 📚 Objetivo Acadêmico
 
